@@ -5,3 +5,5 @@ The task is to predict the percentage of an student based on the no. of study ho
 This is a simple linear regression task as it involves only two variables.
 you can use python. R, SAS Enterprise Miner or any other tool.
 Data can be found at http://bit.ly/w-data
+Tools used : Juyter Notebook
+language : python
